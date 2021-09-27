@@ -49,7 +49,7 @@ function App() {
     >
       <h1 className="hello">Hello loml</h1>
 
-      {qoute [counter % qoute.length]}
+      {qoute[counter%qoute.length]}
 
      <div>
         <img src="https://scontent.fbni1-1.fna.fbcdn.net/v/t1.6435-9/211942188_529016064810807_4391039719543772824_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeEDB6vH1ddlOIm9Tdcg1awjf7VV4ChipZR_tVXgKGKllPg2clkQ7ZBnHk-6wBVECc6nbBQ7HU4EJ0FY_fccWqzC&_nc_ohc=uNH1CAYzV1AAX-mIt7i&_nc_ht=scontent.fbni1-1.fna&oh=b757de7e4642868bc7f5d99a23c6b814&oe=6172F6B1" alt="my love"/>

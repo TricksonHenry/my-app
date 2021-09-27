@@ -6,7 +6,7 @@
   font-weight: bolder;
   font-size: 1.7em;
   padding: 1em;
-  color: #f7e5ec;
+  color: #d4d3d4;
   line-height: 2em;
 }
 
@@ -33,7 +33,7 @@ p {
 #root {
   display: flex;
   min-height: 100vh;
-  background-color: #254e49;
+  background-color: #e73c75;
 }
 
 .App-logo {
